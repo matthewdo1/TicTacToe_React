@@ -210,7 +210,7 @@ class App extends React.Component {
     render() {
         return (
             <div className="flex-container">
-                <div className="banner">Long's Playground</div>
+                <div className="banner">Tic-Tac-Toe</div>
                     <BrowserRouter>
                         <ul className="navbar">
                             <li><NavLink exact to='/'>Tic-Tac-Toe</NavLink></li>
