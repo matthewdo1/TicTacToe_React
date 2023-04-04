@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Webpage using React
+# Tic-Tac-Toe React
 
 Small practice with React to create a webpage with an implementation of Tic-Tac-Toe. 
 
